@@ -1,1 +1,5 @@
 /.idea/*
+/project/target/*
+/project/config-classes/*
+.DS_STORE
+/project/.DS_STORE
