@@ -3,3 +3,4 @@
 /project/config-classes/*
 .DS_STORE
 /project/.DS_STORE
+/target/*
